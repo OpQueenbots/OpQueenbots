@@ -26,3 +26,6 @@ Age - Hide
 
 <p align="center">
 <a href="https://t.me/Kalakar_Sangram"><img src="https://img.shields.io/badge/dynamic/json?color=gold&label=Find me%20on Telegram&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DBotsClubDiscussion?style=social&logo=telegram" /></a></p>
+
+<p align="center">
+<a href="http://Instagram.com/sangramsahu55"><img src="https://img.shields.io/badge/dynamic/json?color=gold&label=Find me on%20Instagram&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DBotsClubDiscussion?style=social&logo=telegram" /></a></p>
