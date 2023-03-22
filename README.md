@@ -21,4 +21,5 @@ Date of birth 21th October
 Age - Hide 
 
 
+<p align="centre">
 🧐 𝗙𝗶𝗻𝗱 𝗠𝗲 𝗼𝗻 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮
