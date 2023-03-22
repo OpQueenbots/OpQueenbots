@@ -24,3 +24,5 @@ Age - Hide
 
 # 🧐 𝗙𝗶𝗻𝗱 𝗠𝗲 𝗼𝗻 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮
 
+<p align="center">
+<a href="https://t.me/Kalakar_Sangram"><img src="https://img.shields.io/badge/dynamic/json?color=gold&label=Find me%20on Telegram&query=members&url=https%3A%2F%2Fonline-users-api.up.railway.app%2Fcheck%3Fchat%3DBotsClubDiscussion?style=social&logo=telegram" /></a></p>
