@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center">
-<b>❤️‍🔥 𝗠𝘆 𝗦𝗲𝗹𝗳 𝗦𝗮𝗻𝗴𝗿𝗮𝗺 ❤️‍🔥</b>
+<b>𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗠𝘆 𝗚𝗶𝘁𝗛𝘂𝗯</b>
 </p>
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
