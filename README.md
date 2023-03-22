@@ -12,6 +12,6 @@
 
   🤔 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
   
-<b> My Self Sangram </b>
+ My Self Sangram 
 </p>
 I live in India🇮🇳, Odisha
