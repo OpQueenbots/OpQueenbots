@@ -7,7 +7,24 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
+class Anonymous():
+    def init(self):
+        self.name = ['Sangram']
+        self.country = ['India']
+        self.language = ['हिंदी', 'English']
+    def programming_languages(self):
+        return [
+            'Python', 'SQL'
+        ]
+    def developer_tools(self):
+        return [
+            'GitHub', 'Docker', 'Heroku',
+            'MongoDB', 'MySQL'
+        ]
+    def operating_system(self):
+        return [
+            'Android', 'Linux'
+        ]
 
 
 # 🤔 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
