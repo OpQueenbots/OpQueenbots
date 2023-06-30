@@ -7,7 +7,8 @@
   
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-class Anonymous():
+```python3
+class Sangram():
     def init(self):
         self.name = ['Sangram']
         self.country = ['India']
@@ -25,7 +26,7 @@ class Anonymous():
         return [
             'Android', 'Linux'
         ]
-
+```
 
 # 🤔 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘
   
